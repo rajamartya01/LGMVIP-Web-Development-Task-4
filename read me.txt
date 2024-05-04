@@ -1,0 +1,36 @@
+Project Name: student Result Management System
+->Modules:
+Student
+Admin
+->Admin Features
+
+Admin Dashboard
+Admin can add/update/ Class
+Admin can add/update/ Subjects
+Admin can add/update/ Active/Inactive Subject combination with class
+Admin can register new student and also edit info of the student
+admin can declare/ edit  result of a student.
+Admin can add/ delete the notice.
+Admin can change own password
+Students-
+
+Student can search their result using valid roll id.
+Student can also View the notices.
+
+For User
+
+Details of student  --
+
+
+Student name-- Anuj Kumar 
+
+
+Roll id--10861
+Student Class: Fourth(C)
+
+For Admin Panel
+
+
+Login Details for admin : admin/Test@123
+
+
